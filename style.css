@@ -2,6 +2,7 @@
     /* background-color: black; */
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 
 }
 #main{
@@ -31,6 +32,7 @@
 }
 input,label{
     font-size: 1.5rem;
+    margin-left: 0%;
 }
 button{
     font-size: 1.3rem;
